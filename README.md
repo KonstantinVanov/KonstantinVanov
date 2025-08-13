@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Konstantin Ivanov
 
-**🤖 AI & NLP Developer | 🧠 RAG Specialist | 🤖 Telegram Bot Developer**
+**AI & NLP Developer | RAG Specialist | Telegram Bot Developer**
 
 I'm passionate about building intelligent systems using cutting-edge AI technologies. My expertise includes:
 
