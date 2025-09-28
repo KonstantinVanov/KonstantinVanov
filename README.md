@@ -9,6 +9,8 @@
 
 # 👋 Hi there! I'm Konstantin Ivanov
 
+[Telegram](https://img.shields.io/badge/Telegram-Konstantin_vanov-26A5E4?logo=telegram&logoColor=white)](https://t.me/Konstantin_vanov)
+
 **AI & NLP Developer | RAG Specialist | Telegram Bot Developer**
 
 I'm passionate about building intelligent systems using cutting-edge AI technologies. My expertise includes:
