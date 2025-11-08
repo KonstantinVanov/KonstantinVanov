@@ -6,6 +6,13 @@
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white)](https://www.langchain.com/)
+[![AI](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 # 👋 Hi there! I'm Konstantin Ivanov
 
@@ -29,14 +36,14 @@ I'm deeply fascinated by the transformative power of AI and LLMs. My journey in 
 ##  Technical Expertise
 
 ### Core Competencies
-- **Large Language Models (LLMs)**: Deep understanding of LLM architectures, fine-tuning, and optimization
-- **Retrieval-Augmented Generation (RAG)**: Building sophisticated RAG systems for enhanced AI applications
-- **Natural Language Processing (NLP)**: Advanced NLP techniques and conversational AI development
-- **Telegram Bot Development**: Creating intelligent, AI-powered Telegram bots with advanced capabilities
-- **Vector Databases**: Implementing semantic search and similarity matching using vector embeddings
-- **API Integration**: Expert in OpenAI API, prompt engineering, and LLM orchestration
-- **DevOps**: Containerization with Docker and orchestration with Kubernetes
-- **Backend Development**: Building robust APIs and services with Flask and Python
+- ** Large Language Models (LLMs)**: Deep understanding of LLM architectures, fine-tuning, and optimization
+- ** Retrieval-Augmented Generation (RAG)**: Building sophisticated RAG systems for enhanced AI applications
+- ** Natural Language Processing (NLP)**: Advanced NLP techniques and conversational AI development
+- ** Telegram Bot Development**: Creating intelligent, AI-powered Telegram bots with advanced capabilities
+- ** Vector Databases**: Implementing semantic search and similarity matching using vector embeddings
+- ** API Integration**: Expert in OpenAI API, prompt engineering, and LLM orchestration
+- ** DevOps**: Containerization with Docker and orchestration with Kubernetes
+- ** Backend Development**: Building robust APIs and services with Flask and Python
 
 ### Technologies & Tools
 - **Languages**: Python
