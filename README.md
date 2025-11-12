@@ -36,14 +36,14 @@ I'm deeply fascinated by the transformative power of AI and LLMs. My journey in 
 ##  Technical Expertise
 
 ### Core Competencies
-- ** Large Language Models (LLMs)**: Deep understanding of LLM architectures, fine-tuning, and optimization
-- ** Retrieval-Augmented Generation (RAG)**: Building sophisticated RAG systems for enhanced AI applications
-- ** Natural Language Processing (NLP)**: Advanced NLP techniques and conversational AI development
-- ** Telegram Bot Development**: Creating intelligent, AI-powered Telegram bots with advanced capabilities
-- ** Vector Databases**: Implementing semantic search and similarity matching using vector embeddings
-- ** API Integration**: Expert in OpenAI API, prompt engineering, and LLM orchestration
-- ** DevOps**: Containerization with Docker and orchestration with Kubernetes
-- ** Backend Development**: Building robust APIs and services with Flask and Python
+- **Large Language Models (LLMs)**: Deep understanding of LLM architectures, fine-tuning, and optimization
+- **Retrieval-Augmented Generation (RAG)**: Building sophisticated RAG systems for enhanced AI applications
+- **Natural Language Processing (NLP)**: Advanced NLP techniques and conversational AI development
+- **Telegram Bot Development**: Creating intelligent, AI-powered Telegram bots with advanced capabilities
+- **Vector Databases**: Implementing semantic search and similarity matching using vector embeddings
+- **API Integration**: Expert in OpenAI API, prompt engineering, and LLM orchestration
+- **DevOps**: Containerization with Docker and orchestration with Kubernetes
+- **Backend Development**: Building robust APIs and services with Flask and Python
 
 ### Technologies & Tools
 - **Languages**: Python
